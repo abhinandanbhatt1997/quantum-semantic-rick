@@ -1,0 +1,7 @@
+qiskit
+matplotlib
+scikit-learn
+pandas
+qiskit-machine-learning
+numpy
+sentence-transformers
